@@ -1,2 +1,2 @@
 # covid-tracker
-track all active cases of any country
+track all covid active cases of any country
